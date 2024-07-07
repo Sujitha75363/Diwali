@@ -1,0 +1,47 @@
+.top-background-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    height: 40vh;
+    background-size: cover;
+}
+
+.heading {
+    color: white;
+    font-family: "Caveat";
+    width: 230px;
+    padding: 30px;
+}
+
+.bottom-background-container {
+    background-color: #e6f6ff;
+    padding: 10px;
+    text-align: center;
+}
+
+.card-item {
+    background-color: white;
+    border-radius: 10px;
+    height: 150px;
+    width: 130px;
+    text-align: center;
+    padding: 8px;
+    margin: 30px;
+}
+
+.image {
+    height: 70px;
+    width: 70px;
+}
+
+.main-heading {
+    color: #616e7c;
+    font-family: "Roboto";
+    font-size: 13px;
+    margin: 6px;
+}
+
+.paragraph {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: bold;
+}
